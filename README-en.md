@@ -4,9 +4,9 @@
 
 This project features a dashboard developed during the **Introduction to Power BI** course provided by [Comunidade DS](https://www.comunidadeds.com/). During its development it was used the dataset of a fictional [e-commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) called **Tudo Aqui**.
 
-</br>
+[Go to report](https://app.powerbi.com/view?r=eyJrIjoiNDFhOTNmZTctMDVhYy00ZDYyLWI1ZTMtYTE0YzIyMmFhNmNmIiwidCI6ImRhNmQ0OWRhLTU1N2MtNDQxNy04YWVmLTg4ZTA1MDcxOTE0MyJ9)
 
-![](img/dash.gif)
+[![](img/dash.gif)](https://app.powerbi.com/view?r=eyJrIjoiNDFhOTNmZTctMDVhYy00ZDYyLWI1ZTMtYTE0YzIyMmFhNmNmIiwidCI6ImRhNmQ0OWRhLTU1N2MtNDQxNy04YWVmLTg4ZTA1MDcxOTE0MyJ9)
 
 </br>
 Interact, filter, explore, and draw your own conclusions!
