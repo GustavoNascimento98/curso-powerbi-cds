@@ -1,6 +1,7 @@
 # Projeto Power BI
+[![pt-br](https://img.shields.io/badge/language-pt--br-green.svg)](https://github.com/GustavoNascimento98/curso-powerbi-cds/blob/main/README.md)
+[![en](https://img.shields.io/badge/language-en-red.svg)](https://github.com/GustavoNascimento98/curso-powerbi-cds/blob/main/README-en.md)
 
-## Resumo
 Esse projeto contém um dashboard desenvolvido durante o curso **Introdução ao Power BI** ministrado pela [Comunidade DS](https://www.comunidadeds.com/). Nele trabalhamos com o conjunto de dados de um [e-commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) fictício chamado **Tudo Aqui**.
 
 </br>
