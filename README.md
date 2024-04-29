@@ -5,9 +5,7 @@ Esse projeto contém um dashboard desenvolvido durante o curso **Introdução ao
 
 </br>
 
-<video width="100%" height="100%" controls>
-    <source src="img/dash-video.mp4" type="video/mp4">
-</video>
+![](img/dash.gif)
 
 </br>
 Interaja, filtre, explore e tire suas próprias conclusões! 
