@@ -3,6 +3,7 @@
 
 ![](img/powerbi-cover.jpg)
 
+
 # Projeto Power BI
 
 Esse projeto contém um dashboard desenvolvido durante o curso **Introdução ao Power BI** ministrado pela [Comunidade DS](https://www.comunidadeds.com/). Nele trabalhamos com o conjunto de dados de um [e-commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) fictício chamado **Tudo Aqui**.
