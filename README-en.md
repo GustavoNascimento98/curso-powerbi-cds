@@ -1,6 +1,9 @@
-# Power BI Project
 [![pt-br](https://img.shields.io/badge/language-pt--br-green.svg)](https://github.com/GustavoNascimento98/curso-powerbi-cds/blob/main/README.md)
 [![en](https://img.shields.io/badge/language-en-red.svg)](https://github.com/GustavoNascimento98/curso-powerbi-cds/blob/main/README-en.md)
+
+![](img/powerbi-cover.jpg)
+
+# Power BI Project
 
 This project features a dashboard developed during the **Introduction to Power BI** course provided by [Comunidade DS](https://www.comunidadeds.com/). During its development it was used the dataset of a fictional [e-commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) called **Tudo Aqui**.
 
