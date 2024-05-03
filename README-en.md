@@ -31,7 +31,7 @@ Faced with these challenges, the development of a dashboard became a strategic p
 
 
 ## Final Product
-The solution to the business problem is a [report](https://app.powerbi.com/view?r=eyJrIjoiNDFhOTNmZTctMDVhYy00ZDYyLWI1ZTMtYTE0YzIyMmFhNmNmIiwidCI6ImRhNmQ0OWRhLTU1N2MtNDQxNy04YWVmLTg4ZTA1MDcxOTE0MyJ9) comprising 6 dashboards that shed light on various aspects of the business:
+The solution to the business problem is a report comprising 6 dashboards that shed light on various aspects of the business ([see more details](https://gustavonascimento98.github.io/portfolio_projetos/pages/powerbi-dashboard-en.html)):
 
 1. **Product View**: Insights into the characteristics of the products being sold.
 

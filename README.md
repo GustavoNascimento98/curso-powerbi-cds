@@ -31,7 +31,7 @@ Diante desses desafios, o desenvolvimento de um dashboard se tornou uma priorida
 
 
 ## Solução
-Com esses tópicos em mente foi desenvolvido um relatório com 6 visões e que pode ser acessado pelo [link](https://app.powerbi.com/view?r=eyJrIjoiNDFhOTNmZTctMDVhYy00ZDYyLWI1ZTMtYTE0YzIyMmFhNmNmIiwidCI6ImRhNmQ0OWRhLTU1N2MtNDQxNy04YWVmLTg4ZTA1MDcxOTE0MyJ9):
+Com esses tópicos em mente foi desenvolvido um relatório com 6 visões ([veja mais detalhes](https://gustavonascimento98.github.io/portfolio_projetos/pages/powerbi-dashboard-pt.html)):
 
 1. **Visão Produto:** Insights sobre as características dos produtos sendo vendidos.
 
